@@ -509,7 +509,6 @@ export const books = [
         image: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1722064775i/214269374.jpg",
         available: true,
         status: "new" // new arrival: new, Leaving soon: leaving, or null
-    },
+    }
 
 ];
-
