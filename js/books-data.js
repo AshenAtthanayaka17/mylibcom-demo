@@ -490,9 +490,10 @@ export const books = [
         pages: 136,
         location: "MLC/N/00031/TN",
         description: "This is the story of a few strange hours in the life of a troubled teenage boy. You mustn't do that to yourself Shy. You mustn't hurt yourself like that. He is wandering into the night listening to the voices in his head: his teachers, his parents, the people he has hurt and the people who are trying to love him.",
-        image: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1308814880i/121749.jpg",
+        image: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1663989208i/61400844.jpg",
         available: true,
         status: "new" // new arrival: new, Leaving soon: leaving, or null
     },
 
 ];
+
