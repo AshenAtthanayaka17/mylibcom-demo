@@ -44,7 +44,7 @@ export const books = [
         description: "ඉස්සෙල්ලා ම ඔහුට ඇයගෙ හීනි ඇඟිලි තුඩුවල ස්පර්ශය දැනෙන්න ගත්තා. ඒත් එක්ක ම ඇඟිලිවලින් පටං ගත්ත උණුසුමක් මුලු ඇඟ පුරා ම පැතිරෙන විදිහ ඔහුට දැණුනා. ඇගේ අත සිනිඳු වුණා වගේ ම උණුසුම් වුණා. ඒක ඔහුට ඇති කරේ ගුලිවෙලා නිදාගැනීමේ වුවමනාවක්. මූට මේ මොකක් ද වුණේ වගේ ලුක් එකක් එක්ක ඇය ඔහු දිහාවට හැරුණා. මුකුත් නොකිය ම ඔහුත් ඇය දිහා බලාගෙන ඉඳලා තිබුණා. තත්පර දහයක් විතර ඔවුන් එකිනෙකා දිහා බලාගෙන ඉද්දි, ඔහුට ඇත්තට ම හැමදේම හොඳින් සිද්ධවෙයි කියලා දැනෙන්න පටං ගත්තා. ඒ වගේ ම හැමදේම හොඳින් සිද්ධ වේවි කියලා ඔහු විශ්වාස කරන්න පටං අරගෙන තිබුණා. ඒත් එක්ක ම කඳවුරේ කෙළවරකින් කවුදෝ කෑගහනවා ඇහුණා. “සිරිමල් අයියා වැටිලා…”",
         image: "https://katha.lk/wp-content/uploads/2025/06/S0526-E-Dawas-Hari-Wenas-Abdul-Umar-Sahan-Nethmina.webp",
         available: true,
-        status: "leaving" // new arrival: new, Leaving soon: leaving, or null
+        status: "" // new arrival: new, Leaving soon: leaving, or null
     },
 
     {
@@ -380,7 +380,7 @@ export const books = [
         description: "Sadie Shaw and Jonah Fisher have been academic rivals since they first crossed paths as undergraduates in the literature department thirteen years ago. Now that a highly coveted teaching opportunity has come up, their rivalry hits epic proportions. Jonah needs the job to move closer to his recently divorced sister and her children, while Sadie needs the financial security and freedom of a full-time teaching position.",
         image: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743882229i/224003821.jpg",
         available: true,
-        status: "new" // new arrival: new, Leaving soon: leaving, or null
+        status: "" // new arrival: new, Leaving soon: leaving, or null
     },
 
     {
@@ -478,4 +478,21 @@ export const books = [
         available: true,
         status: "" // new arrival: new, Leaving soon: leaving, or null
     },
+
+    {
+        id: 31,
+        title: "Shy",
+        author: "Max Porter",
+        genre: "Novel",
+        year: "2023 APR 6",
+        rating: 7.1,
+        category: "Teens",
+        pages: 136,
+        location: "MLC/N/00031/TN",
+        description: "This is the story of a few strange hours in the life of a troubled teenage boy. You mustn't do that to yourself Shy. You mustn't hurt yourself like that. He is wandering into the night listening to the voices in his head: his teachers, his parents, the people he has hurt and the people who are trying to love him.",
+        image: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1308814880i/121749.jpg",
+        available: true,
+        status: "new" // new arrival: new, Leaving soon: leaving, or null
+    },
+
 ];
