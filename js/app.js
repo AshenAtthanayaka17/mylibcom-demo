@@ -71,7 +71,7 @@ function generateSnowflakes() {
     styles.forEach((s, i) => {
         const flake = document.createElement('div');
         flake.className = 'snowflake';
-        flake.textContent = i % 2 === 0 ? '❅' : '❆'; // Update Flake here...
+        flake.textContent = i % 2 === 0 ? '❅' : '❆';  // Update Flakes in here...
         flake.style.left = s.left;
         flake.style.animationDuration = s.dur;
         flake.style.animationDelay = s.delay;
@@ -529,6 +529,7 @@ window.forgotPassword = forgotPassword;
 window.toggleWishlist = toggleWishlist;
 window.borrowBook = borrowBook;
 window.returnBook = returnBook;
+
 
 
 
