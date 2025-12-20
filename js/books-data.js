@@ -502,7 +502,7 @@ export const books = [
         genre: "Mystery",
         year: "2025 MAR 4",
         rating: 4.8,
-        category: "Young Adult",
+        category: "YA",
         pages: 152,
         location: "MLC/F/00032/YA",
         description: "An ambitious young journalist sets out to uncover the truth surrounding the attack, connecting the dots between an amoral banker landlord, an iconoclastic columnist, and a radical anarchist movement that has taken up residence on the farm. She solves the mystery, but her viral exposé raises more questions than it answers. Through a voyeuristic lens, and with a simmering power, Universality focuses on words: what we say, how we say it, and what we really mean.",
@@ -512,3 +512,4 @@ export const books = [
     },
 
 ];
+
