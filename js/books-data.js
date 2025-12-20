@@ -495,5 +495,20 @@ export const books = [
         status: "new" // new arrival: new, Leaving soon: leaving, or null
     },
 
-];
+    {
+        id: 32,
+        title: "Universality",
+        author: "Natasha Brown",
+        genre: "Mystery",
+        year: "2025 MAR 4",
+        rating: 4.8,
+        category: "Young Adult",
+        pages: 152,
+        location: "MLC/F/00032/YA",
+        description: "An ambitious young journalist sets out to uncover the truth surrounding the attack, connecting the dots between an amoral banker landlord, an iconoclastic columnist, and a radical anarchist movement that has taken up residence on the farm. She solves the mystery, but her viral exposé raises more questions than it answers. Through a voyeuristic lens, and with a simmering power, Universality focuses on words: what we say, how we say it, and what we really mean.",
+        image: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1722064775i/214269374.jpg",
+        available: true,
+        status: "new" // new arrival: new, Leaving soon: leaving, or null
+    },
 
+];
